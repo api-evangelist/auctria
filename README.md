@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Auctria is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://auctria.com/
+Auctria provides a cloud‑based fundraising platform that helps nonprofits run auctions, ticketed events, and donation campaigns. Its solution includes event websites, payment processing, mobile apps, and analytics to streamline donor engagement and maximize fundraising outcomes. The platform is designed for ease of use, offering tools for event creation, ticket sales, auction management, and comprehensive reporting, all accessible via a web interface.
+
+**Areas:** Company · Fundraising · Nonprofit · SaaS · Auctions
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.auctria.com/)
+- [Documentation](https://www.auctria.com/about/)
+- [Getting started](https://www.auctria.com/webinar/getting-started-with-auctria)
+- [Pricing](https://www.auctria.com/pricing/)
+- [Support](https://www.auctria.com/contact/)
+- [Blog](https://www.auctria.com/blog/)
+- [Terms of service](https://www.auctria.com/terms-of-service/)
+- [Privacy policy](https://www.iubenda.com/privacy-policy/7817344)
+- [GitHub](https://github.com/Auctria)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/auctria/](https://apis.io/providers/auctria/).
